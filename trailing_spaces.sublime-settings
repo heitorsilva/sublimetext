@@ -1,0 +1,4 @@
+{
+  "trailing_spaces_highlight_color": "comment",
+  "trailing_spaces_regexp": "(?<=\\S)[\t ]{2,}|[ \t]{2,}$|[ \\f\\t\\v]$|(!?^\\s+)"
+}
