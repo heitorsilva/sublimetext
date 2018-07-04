@@ -1,0 +1,27 @@
+{
+  "search_colors_in": {
+    "selection": {
+      "enabled": true,
+      "color_highlighters": {
+        "color_scheme": {
+          "enabled": true,
+          "highlight_style": "text"
+        },
+        "phantoms": {
+          "enabled": true,
+          "style": "right",
+          "length": 2
+        }
+      }
+    },
+    "all_content": {
+      "enabled": true,
+      "color_highlighters": {
+        "color_scheme": {
+          "enabled": true,
+          "highlight_style": "filled"
+        }
+      }
+    }
+  }
+}
