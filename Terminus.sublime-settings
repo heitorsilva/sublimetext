@@ -6,6 +6,6 @@
 		"osx": "Zsh",
 		"windows": "Command Prompt"
 	},
-	"theme": "ir-black",
+	"theme": "dracula",
 	"unix_term": "xterm-256color"
 }
